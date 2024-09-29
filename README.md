@@ -44,10 +44,61 @@
     </ul>
 
 <h2>Integrantes</h2>
-<thead>
-  <tr>
-    <th>Desenvolvedores</th> 
-    <th>Icon</th>
-    <th>RM</th>
-  </tr>
-</thead>
+<table>
+  <thead>
+    <tr>
+      <th>Desenvolvedores</th> 
+      <th>Icon</th>
+      <th>RM</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Marcello</td>
+      <td>
+        <a href="https://github.com/MarcelloFMoreira">
+          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+        </a>
+      </td>
+      <td>RM557531</td>
+    </tr>
+    <tr>
+      <td>Marcello</td>
+      <td>
+        <a href="https://github.com/MarcelloFMoreira">
+          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+        </a>
+      </td>
+      <td>RM557531</td>
+    </tr>
+    <tr>
+      <td>Marcello</td>
+      <td>
+        <a href="https://github.com/MarcelloFMoreira">
+          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+        </a>
+      </td>
+      <td>RM557531</td>
+    </tr>
+    <tr>
+      <td>Marcello</td>
+      <td>
+        <a href="https://github.com/MarcelloFMoreira">
+          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+        </a>
+      </td>
+      <td>RM557531</td>
+    </tr>
+    <tr>
+      <td>Marcello</td>
+      <td>
+        <a href="https://github.com/MarcelloFMoreira">
+          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+        </a>
+      </td>
+      <td>RM557531</td>
+    </tr>
+  </tbody>
+</table>
+
+
