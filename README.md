@@ -54,43 +54,43 @@
   </thead>
   <tbody>
     <tr>
-      <td>Marcello</td>
+      <td>Adolfo Kentaro</td>
       <td>
         <a href="https://github.com/MarcelloFMoreira">
-          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+          <img src="https://avatars.githubusercontent.com/u/125566679?v=4" height="50" style="max-width: 100%;">
         </a>
       </td>
-      <td>RM557531</td>
+      <td>RM556884</td>
     </tr>
     <tr>
-      <td>Marcello</td>
+      <td>Bruno Otávio</td>
       <td>
         <a href="https://github.com/MarcelloFMoreira">
-          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+          <img src="https://avatars.githubusercontent.com/u/162759544?v=4" height="50" style="max-width: 100%;">
         </a>
       </td>
-      <td>RM557531</td>
+      <td>RM556196</td>
     </tr>
     <tr>
-      <td>Marcello</td>
+      <td>Guilherme Flores</td>
       <td>
         <a href="https://github.com/MarcelloFMoreira">
-          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+          <img src="https://avatars.githubusercontent.com/u/111022630?v=4" height="50" style="max-width: 100%;">
         </a>
       </td>
-      <td>RM557531</td>
+      <td>RM554948</td>
     </tr>
     <tr>
-      <td>Marcello</td>
+      <td>Luiz Fernando</td>
       <td>
         <a href="https://github.com/MarcelloFMoreira">
-          <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
+          <img src="https://avatars.githubusercontent.com/u/84513178?v=4" height="50" style="max-width: 100%;">
         </a>
       </td>
-      <td>RM557531</td>
+      <td>RM555561</td>
     </tr>
     <tr>
-      <td>Marcello</td>
+      <td>Marcello Moreira</td>
       <td>
         <a href="https://github.com/MarcelloFMoreira">
           <img src="https://avatars.githubusercontent.com/u/161846509?v=4" height="50" style="max-width: 100%;">
