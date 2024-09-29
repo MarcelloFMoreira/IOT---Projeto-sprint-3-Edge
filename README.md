@@ -1,7 +1,7 @@
 <h1>IoT Car Proximity Detection System</h1>
     
 <h2>Descrição do Projeto</h2>
-<p>Este projeto utiliza a tecnologia IoT para monitorar a proximidade de objetos ou veículos ao redor de um carro. Sensores ultrassônicos HC-SR04 são conectados a um Arduino, que coleta dados sobre a distância entre o carro e outros objetos ou veículos. O código em C++ processa essas informações e as transmite, proporcionando uma solução de monitoramento em tempo real, que pode ser utilizada para melhorar a segurança de veículos em movimento.</p>
+<p>Este projeto utiliza a tecnologia IoT para monitorar a proximidade de objetos ou veículos ao redor de um carro por meio de sensores ultrassônicos. Usamos o código em C++ para processar e transmitir as informações, proporcionando uma solução de monitoramento em tempo real, que pode ser utilizada para melhorar a segurança de veículos em movimento.</p>
  <h2>Funcionalidades</h2>
  <ul>
    <li>Monitoramento em tempo real da proximidade entre o carro e outros objetos ou veículos.</li>
@@ -21,6 +21,9 @@
         <li>Os sensores HC-SR04 enviam ondas ultrassônicas para detectar a distância de objetos.</li>
         <li>O Arduino coleta os dados dos sensores, calcula a distância e exibe os resultados no monitor serial. Em seguida, envia os dados para a internet por meio do Node-RED, utilizando o protocolo MQTT. </li>
     </ol>
+
+<h2>Vídeo Explicativo</h2>
+(https://www.youtube.com/watch?v=40lGbScqnio)
 
    <h2>Futuras Implementações</h2>
     <ul>
