@@ -8,9 +8,7 @@
    <li>Utilização de sensores ultrassônicos HC-SR04 para medir a distância com precisão.</li>
    <li>Conexão com Arduino para processamento dos dados dos sensores.</li>
    <li>Código em C++ para controlar o sistema de detecção de proximidade.</li>
-  <li>Pode ser integrado em sistemas maiores de segurança automotiva.</li>
  </ul>
-    
  <h2>Componentes Utilizados</h2>
   <ul>
    <li><strong>Arduino Uno</strong>: Controlador principal para processar as leituras dos sensores.</li>
@@ -18,21 +16,10 @@
    <li><strong>Jumpers</strong> e <strong>Protoboard</strong> para a conexão dos componentes.</li>
    <li><strong>Código em C++</strong>: Responsável pela lógica de controle e cálculo das distâncias.</li>
  </ul>
-    
-  <h2>Instalação</h2>
-   <ol>
-     <li>Clone este repositório:
-        <pre><code>git clone https://github.com/MarcelloFMoreira/IOT---Projeto-sprint-3-Edge.git</code></pre>
-     </li>
-     <li>Abra o código C++ na IDE Arduino ou outra IDE de sua escolha.</li>
-      <li>Conecte o Arduino e os sensores ultrassônicos</li>
-      <li>Carregue o código no Arduino através da IDE.</li>
-    </ol>
-    
    <h2>Como Funciona</h2>
     <ol>
         <li>Os sensores HC-SR04 enviam ondas ultrassônicas para detectar a distância de objetos.</li>
-        <li>O Arduino processa os dados dos sensores e calcula a distância, exibindo os resultados no monitor serial ou enviando-os para outro sistema conectado.</li>
+        <li>O Arduino coleta os dados dos sensores, calcula a distância e exibe os resultados no monitor serial. Em seguida, envia os dados para a internet por meio do Node-RED, utilizando o protocolo MQTT. </li>
     </ol>
 
    <h2>Futuras Implementações</h2>
